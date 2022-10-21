@@ -76,6 +76,7 @@ ul {
 .contacts-header:hover,
 .contacts-header:focus {
   color: var(--hover-and-button-color);
+  --color4: var(--hover-and-button-color);
 }
 
 .list {
@@ -391,4 +392,17 @@ ul {
 
 .img-block {
   display: block;
+}
+
+.contacts-icon {
+  margin-right: 10px;
+}
+
+.icon-box {
+  background-color: var(--background-color-3);
+  padding-block: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 30px;
+  border-radius: 4px;
 }
