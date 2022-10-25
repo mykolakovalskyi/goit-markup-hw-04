@@ -72,6 +72,8 @@ ul {
   line-height: 100%;
   letter-spacing: 0.02em;
   text-align: left;
+  display: flex;
+  align-items: center;
 }
 
 .contacts-header:hover,
@@ -454,6 +456,7 @@ ul {
 .title-footer {
   color: var(--text-color-2);
   text-transform: uppercase;
+  padding-top: 12px;
 }
 
 .our-socials {
