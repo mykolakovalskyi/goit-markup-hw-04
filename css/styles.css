@@ -97,6 +97,7 @@ ul {
   max-width: 1600px;
   background-position: 50% 35%;
   background-size: cover;
+  margin: 0 auto;
 }
 
 .section-1-header {
